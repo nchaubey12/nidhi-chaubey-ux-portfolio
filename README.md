@@ -3,6 +3,9 @@
 A dark-theme, SaaS-style UX/UI research dashboard designed for a 
 language learning platform (Learn German / Learn Languages).
 
+## 🔗 Live Demo
+👉 [View Dashboard Live](https://nchaubey12.github.io/nidhi-chaubey-ux-portfolio/UI_UX_PORTFOLIO.html)
+
 Built as a portfolio piece showcasing UX research workflows, sprint 
 planning, user testing metrics, podcast player UI, and role-fit 
 assessment — all in a single interactive interface.
